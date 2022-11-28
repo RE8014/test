@@ -10,13 +10,13 @@
 
 <body>
 
-<form action="./wel/" method="get">
+<form action="../wel/" method="post">
 <span> Name: </span> <input type="text" name="name">
 <input type="submit">
 </form>
 
 <?php  
-$name=$_GET["name"];
+$name=$_POST["name"];
 echo "Welcome, $name";  
 ?>  
 
