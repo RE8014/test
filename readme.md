@@ -6,12 +6,12 @@ Online Chatroom is a simple chatroom for everyone that can chat on it, and also 
 
 # Function
 We made many special functions, lets try!
-- sending test/article/paragraph
-- uploading image
-- uploading video
-- uploading audio
-- sending link
-- uploading files
-- mini games
-- money transfer
+- sending test/article/paragraph 📄
+- uploading image 🌄
+- uploading video 🎬
+- uploading audio 🎧
+- sending link 🌐
+- uploading files 📁
+- mini games 🎮
+- money transfer 💸
 
